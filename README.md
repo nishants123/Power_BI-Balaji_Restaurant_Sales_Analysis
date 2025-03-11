@@ -60,6 +60,9 @@ Used Technologies:-
 
 • Power BI
 
+• Excel
+
+
 Conclusion:-
 
 The analysis of Balaji Restaurant’s sales data provides crucial insights into optimizing menu offerings, improving inventory management, and enhancing customer engagement. These data-driven strategies can help the restaurant boost sales and achieve better customer satisfaction.
